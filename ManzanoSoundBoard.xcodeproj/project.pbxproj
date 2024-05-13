@@ -14,6 +14,7 @@
 		8CD472892BF2BD2000DB78F6 /* ManzanoSoundBoard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8CD472872BF2BD2000DB78F6 /* ManzanoSoundBoard.xcdatamodeld */; };
 		8CD4728B2BF2BD2300DB78F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CD4728A2BF2BD2300DB78F6 /* Assets.xcassets */; };
 		8CD4728E2BF2BD2300DB78F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CD4728C2BF2BD2300DB78F6 /* LaunchScreen.storyboard */; };
+		8CD472962BF2C33E00DB78F6 /* SoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD472952BF2C33E00DB78F6 /* SoundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8CD4728A2BF2BD2300DB78F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CD4728D2BF2BD2300DB78F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8CD4728F2BF2BD2300DB78F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CD472952BF2C33E00DB78F6 /* SoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8CD4728C2BF2BD2300DB78F6 /* LaunchScreen.storyboard */,
 				8CD4728F2BF2BD2300DB78F6 /* Info.plist */,
 				8CD472872BF2BD2000DB78F6 /* ManzanoSoundBoard.xcdatamodeld */,
+				8CD472952BF2C33E00DB78F6 /* SoundViewController.swift */,
 			);
 			path = ManzanoSoundBoard;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				8CD4727F2BF2BD2000DB78F6 /* AppDelegate.swift in Sources */,
 				8CD472812BF2BD2000DB78F6 /* SceneDelegate.swift in Sources */,
 				8CD472892BF2BD2000DB78F6 /* ManzanoSoundBoard.xcdatamodeld in Sources */,
+				8CD472962BF2C33E00DB78F6 /* SoundViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
